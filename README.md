@@ -15,5 +15,5 @@ Project Technology:
 
 Team:
         |      Name        | Registeration no |    Role   | 
-        | Ayesha Tanvir    |    2020CS47      | Developer |
+        | Ayesha Tanvir    |    2020CS47      |   Onwer   |
         | Shahzaib Rafique |    2021CS2       | Developer |
